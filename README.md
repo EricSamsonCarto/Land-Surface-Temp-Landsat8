@@ -5,7 +5,7 @@
     An ArcGIS Pro Arcpy toolbox that estimates land surface temperature using Landsat 8 bands.<br>
     Additionally, it will also calculate NDVI, MNDWI, and NDISI.
     <br>For more information, Visit the Project Description Page:<br>
-  <a href='https://ericsamson.com/Python/LandSurfaceTemp/LandSurfaceTemperature.html'>Land Surface Temperature</a>
+  <a href='https://ericsamson.com/projects/lst'>Land Surface Temperature</a>
   </p>
 </p>
 
