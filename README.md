@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 <div align="center">
   
-<img src="screenshot.JPG"/>
+<img src="/sample/screenshot.JPG"/>
 
 </div>
 
