@@ -1,5 +1,3 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <p align="center">
   <h3 align="center">Estimate Land Surface Temperature From Landsat 8 bands: Arcpy toolbox</h3>
 
@@ -56,11 +54,4 @@
 * [Arcpy](https://desktop.arcgis.com/en/arcmap/10.3/analyze/arcpy/a-quick-tour-of-arcpy.htm)
 * [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/get-started/get-started.htm)
 
-<!-- CONTACT -->
-## Contact
-Eric Samson: [@MyTwitter](https://twitter.com/EricSamsonGIS) <br>
-Email: ericsamsonwx@gmail.com <br>
-Website: [EricSamson.com](https://ericsamson.com) <br>
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/iamericsamson
+[EricSamson.com](https://ericsamson.com) <br>
